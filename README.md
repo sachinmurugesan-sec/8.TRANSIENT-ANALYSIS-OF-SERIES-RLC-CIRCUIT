@@ -22,18 +22,21 @@ Compare the calculated values and measured values of voltage in both the cases.
 
 **CIRCUIT DIAGRAM:**
 
+![WhatsApp Image 2026-03-23 at 12 01 18 AM](https://github.com/user-attachments/assets/7ca5b6ec-7c8e-47db-9b74-16e0242a60c4)
 
 
 
-**TABULATION:**
+**TABULATION ANSD CALCULATION:**
+![WhatsApp Image 2026-03-23 at 12 01 19 AM (1)](https://github.com/user-attachments/assets/65dc23b9-93a1-4a74-945a-5ffaf7954a0a)
+![WhatsApp Image 2026-03-23 at 12 01 19 AM](https://github.com/user-attachments/assets/4aea479c-5cba-43cf-bba6-4dbcefc5eb34)
 
 
-**Calculation:**
 
 
 
 **Marksplitup:**
 
+![WhatsApp Image 2026-03-23 at 12 01 19 AM (2)](https://github.com/user-attachments/assets/0925ace4-f741-4053-8fb6-458dc0bcb60a)
 
 **RESULT:**
 
